@@ -44,3 +44,6 @@ body{
 .card:hover .back{
   transform: rotateY(360deg);
 }
+h1{
+    font-size: 32px;
+}
